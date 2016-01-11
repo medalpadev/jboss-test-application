@@ -1,0 +1,3 @@
+[submodule "mdb-component"]
+	path = mdb-component
+	url = https://github.com/medalpadev/mdb-component.git
